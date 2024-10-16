@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @waterfallboot
+- 👀 I’m interested in computers and the outdoors
+- 🌱 I’m currently learning C# and the DotNet Framework
